@@ -395,9 +395,11 @@ Scalable AI-driven e-learning platform. Led full architecture & design. Selected
 <!--                          TROPHIES                                 -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
+## 🏆 GitHub Achievements
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AhmedEbrahem25&theme=matrix&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AhmedEbrahem25&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
