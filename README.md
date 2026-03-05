@@ -224,6 +224,8 @@ Hide/extract data inside PNG images using LSB steganography. Python API + GUI fo
 ![Steganography](https://img.shields.io/badge/Steganography-2d2d2d?style=flat-square)
 ![LSB](https://img.shields.io/badge/LSB_Encoding-336600?style=flat-square)
 
+<a href="https://github.com/AhmedEbrahem25/Genesis-Chameleon"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 </td>
 <td width="50%" valign="top">
 
@@ -238,6 +240,8 @@ Image encryption framework supporting multiple cipher modes. Evaluates cipher st
 
 ![Cryptography](https://img.shields.io/badge/Cryptography-cc6600?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Security-ff0040?style=for-the-badge)
+
+<a href="https://github.com/AhmedEbrahem25/Image-Encryption-System"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
