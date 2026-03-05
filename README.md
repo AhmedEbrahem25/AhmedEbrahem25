@@ -375,13 +375,13 @@ Scalable AI-driven e-learning platform. Led full architecture & design. Selected
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmedEbrahem25&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=ccffcc"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmedEbrahem25&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=ccffcc"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEbrahem25&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ccffcc&langs_count=8"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AhmedEbrahem25&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ccffcc&langs_count=8"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=AhmedEbrahem25&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff4400&currStreakNum=00ff88&sideNums=ccffcc&currStreakLabel=00ff88&sideLabels=ccffcc&dates=558866"/>
+<img src="https://streak-stats.demolab.com?user=AhmedEbrahem25&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff4400&currStreakNum=00ff88&sideNums=ccffcc&currStreakLabel=00ff88&sideLabels=ccffcc"/>
 
 <br><br>
 
