@@ -81,13 +81,13 @@
 
 | # | Domain | Tools & Techniques | Proficiency |
 |:-:|:-------|:-------------------|:-----------:|
-| 01 | **Malware Analysis** | IDA Pro · Ghidra · x64dbg · CAPEv2 · ProcMon | `████████░░` 80% |
-| 02 | **Reverse Engineering** | x86 ASM · Static/Dynamic Analysis · Windows Internals | `████████░░` 80% |
-| 03 | **Web Penetration Testing** | Burp Suite · OWASP ZAP · SQLMap · Metasploit · Nmap | `████████░░` 80% |
-| 04 | **AI / LLM Red Teaming** | Adversarial Prompts · Jailbreak Pipelines · Safety Eval | `███████░░░` 70% |
-| 05 | **Secure Software Design** | Threat Modeling · Code Auditing · Cryptography | `███████░░░` 70% |
-| 06 | **Quantum Security** | Circuit Obfuscation · Noise Injection · Anti-RE | `██████░░░░` 60% |
-| 07 | **SOC / Incident Response** | HTB SOC Path · SEC504 · Log Analysis | `█████░░░░░` 50% |
+| 01 | **Malware Analysis** | IDA Pro · Ghidra · x64dbg · CAPEv2 · ProcMon | `████████░░` 60% |
+| 02 | **Reverse Engineering** | x86 ASM · Static/Dynamic Analysis · Windows Internals | `████████░░` 60% |
+| 03 | **Web Penetration Testing** | Burp Suite · OWASP ZAP · SQLMap · Metasploit · Nmap | `████████░░` 70% |
+| 04 | **AI / LLM Red Teaming** | Adversarial Prompts · Jailbreak Pipelines · Safety Eval | `███████░░░` 25% |
+| 05 | **Secure Software Design** | Threat Modeling · Code Auditing · Cryptography | `███████░░░` 50% |
+| 06 | **Quantum Security** | Circuit Obfuscation · Noise Injection · Anti-RE | `██████░░░░` 30% |
+| 07 | **SOC / Incident Response** | HTB SOC Path · SEC504 · Log Analysis | `█████░░░░░` 10% |
 
 </div>
 
@@ -103,20 +103,20 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  SANDBOX FLEET                        ANALYSIS STACK                        ║
-║  ─────────────────────────────        ──────────────────────────────────    ║
+║  SANDBOX FLEET                        ANALYSIS STACK                         ║
+║  ─────────────────────────────        ──────────────────────────────────     ║
 ║  Windows XP    [Legacy Malware]        STATIC   ──▶  IDA Pro, Ghidra, FLOSS ║
 ║  Windows 7     [Mid-Era Samples]       DYNAMIC  ──▶  x64dbg, Process Monitor║
 ║  Windows 10    [Modern Threats]        NETWORK  ──▶  Wireshark, INetSim     ║
 ║  Ubuntu+CAPEv2 [Automation]            SANDBOX  ──▶  CAPEv2, Cuckoo-compat  ║
 ║                                                                              ║
 ║  RESEARCH FOCUS                                                              ║
-║  ────────────────────────────────────────────────────────────────────────   ║
+║  ────────────────────────────────────────────────────────────────────────    ║
 ║  ⚡ Persistence Mechanisms            🔍 C2 Communication Patterns          ║
 ║  🛡  Anti-Analysis & Evasion          🤖 AI-Enhanced Malware Detection       ║
-║  🔩 Kernel-Level Rootkit Behavior     📦 Packers, Obfuscators, Crypters      ║
+║  🔩 Kernel-Level Rootkit Behavior     📦 Packers, Obfuscators, Crypters     ║
 ║                                                                              ║
-║  METHODOLOGY: PMA Book + Windows Internals Series + Live Sample Analysis    ║
+║  METHODOLOGY: PMA Book + Windows Internals Series + Live Sample Analysis     ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
