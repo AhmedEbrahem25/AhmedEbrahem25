@@ -368,20 +368,22 @@ Scalable AI-driven e-learning platform. Led full architecture & design. Selected
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                         GITHUB STATS                            -->
+<!--                         GITHUB STATS                              -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;GitHub Stats
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/AhmedEbrahem25">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=AhmedEbrahem25&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=ccffcc&ring_color=00ff88" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEbrahem25&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ccffcc&langs_count=8" alt="Top Languages"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=AhmedEbrahem25&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=ccffcc&ring_color=00ff88"/>
 </a>
 
-<br/><br/>
+<a href="https://github.com/AhmedEbrahem25">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEbrahem25&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ccffcc&langs_count=8"/>
+</a>
+
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AhmedEbrahem25&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff4400&currStreakNum=00ff88&sideNums=ccffcc&currStreakLabel=00ff88&sideLabels=ccffcc&dates=558866)](https://git.io/streak-stats)
 
@@ -390,8 +392,6 @@ Scalable AI-driven e-learning platform. Led full architecture & design. Selected
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedEbrahem25&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff88&line=00cc44&point=00ff88&area=true&area_color=003320)](https://github.com/AhmedEbrahem25)
 
 </div>
-
-<br/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                          TROPHIES                               -->
