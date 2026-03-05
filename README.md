@@ -375,35 +375,33 @@ Scalable AI-driven e-learning platform. Led full architecture & design. Selected
 
 <div align="center">
 
-<a href="https://github.com/AhmedEbrahem25">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=AhmedEbrahem25&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=ccffcc&ring_color=00ff88"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmedEbrahem25&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=ccffcc"/>
 
-<a href="https://github.com/AhmedEbrahem25">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEbrahem25&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ccffcc&langs_count=8"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEbrahem25&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ccffcc&langs_count=8"/>
 
-<br/>
+<br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AhmedEbrahem25&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff4400&currStreakNum=00ff88&sideNums=ccffcc&currStreakLabel=00ff88&sideLabels=ccffcc&dates=558866)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=AhmedEbrahem25&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff4400&currStreakNum=00ff88&sideNums=ccffcc&currStreakLabel=00ff88&sideLabels=ccffcc&dates=558866"/>
 
-<br/>
+<br><br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedEbrahem25&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff88&line=00cc44&point=00ff88&area=true&area_color=003320)](https://github.com/AhmedEbrahem25)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedEbrahem25&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff88&line=00cc44&point=00ff88&area=true"/>
 
 </div>
 
+<br>
+
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                          TROPHIES                               -->
+<!--                          TROPHIES                                 -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AhmedEbrahem25&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=AhmedEbrahem25&theme=matrix&no-frame=true&margin-w=10"/>
 
 </div>
 
-<br/>
+<br>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                     CONTRIBUTION SNAKE                          -->
