@@ -377,7 +377,9 @@ Scalable AI-driven e-learning platform. Led full architecture & design. Selected
 
 <a href="https://github.com/AhmedEbrahem25">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=AhmedEbrahem25&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=ccffcc&ring_color=00ff88" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/AhmedEbrahem25">
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEbrahem25&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ccffcc&langs_count=8" alt="Top Languages"/>
 </a>
 
